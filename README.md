@@ -1,12 +1,12 @@
-# CyberSec Lab Notes 🛡️
+# CyberSec Lab Notes 
 
 Repositório com anotações, laboratórios e materiais de estudo em cibersegurança.
 
-## 📌 Objetivo
+##  Objetivo
 
 Este repositório foi criado para documentar aprendizados práticos e teóricos em segurança da informação, incluindo exploração de vulnerabilidades, hardening, redes e ferramentas de pentest.
   
-## 🧪 Conteúdos
+## Conteúdos
 
 - Fundamentos de redes e protocolos
 - Testes de vulnerabilidades em aplicações web
@@ -15,12 +15,12 @@ Este repositório foi criado para documentar aprendizados práticos e teóricos 
 - Criptografia básica e aplicada
 - Anotações de labs (TryHackMe, Hack The Box, etc.)
 
-## ⚠️ Aviso Legal
+## Aviso Legal
 
 Este repositório é apenas para fins educacionais.  
 Não utilize os conhecimentos aqui para atividades ilegais.
 
-## 🛠️ Ferramentas comuns
+## Ferramentas comuns
 
 - Nmap
 - Burp Suite
@@ -28,6 +28,6 @@ Não utilize os conhecimentos aqui para atividades ilegais.
 - Metasploit
 - Gobuster
 
-## 📚 Objetivo de estudo
+## Objetivo de estudo
 
 Ajudar no desenvolvimento de habilidades práticas em segurança ofensiva e defensiva.
