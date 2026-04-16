@@ -19,15 +19,3 @@ Este repositório foi criado para documentar aprendizados práticos e teóricos 
 
 Este repositório é apenas para fins educacionais.  
 Não utilize os conhecimentos aqui para atividades ilegais.
-
-## Ferramentas comuns
-
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
-- Gobuster
-
-## Objetivo de estudo
-
-Ajudar no desenvolvimento de habilidades práticas em segurança ofensiva e defensiva.
