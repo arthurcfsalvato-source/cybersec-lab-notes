@@ -31,7 +31,3 @@ Não utilize os conhecimentos aqui para atividades ilegais.
 ## 📚 Objetivo de estudo
 
 Ajudar no desenvolvimento de habilidades práticas em segurança ofensiva e defensiva.
-
-## 📄 Licença
-
-Uso educacional. Adicione uma licença se desejar (ex: MIT).
